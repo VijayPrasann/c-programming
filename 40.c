@@ -32,3 +32,5 @@ int main() {
   printf("Nth minimum number: %d\n", nth_min);
   printf("Sum: %d\n", sum);
   printf("Difference: %d\n", diff);
+  return 0;
+}
